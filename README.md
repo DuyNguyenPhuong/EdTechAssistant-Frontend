@@ -21,7 +21,7 @@ You can find the Back-end repository here: [Edtech Back-end Repository](https://
 - [Feature Overview](#features-overview)
 - [Technical Overview](#technical-overview)
 
-# Project Setup
+# Project Setup Detail
 
 This project is built using Next.js. To get started with running the project locally:
 
